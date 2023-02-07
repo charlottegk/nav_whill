@@ -1,0 +1,4 @@
+<robot name="whill" xmlns:xacro="http://wiki.ros.org/xacro">
+    <xacro:include filename="my_base.xacro" />
+    <xacro:include filename="my_laser.xacro" />
+</robot>
