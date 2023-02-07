@@ -1,5 +1,5 @@
 # nav_whill
-2.5d path planning
+2.5d path planning for noetic/hokuyo3D/WHILL
 
 sudo chmod 666 /dev/ttyUSB0
 
